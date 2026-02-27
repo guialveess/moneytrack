@@ -1,1 +1,1 @@
-# moneytrack
+Money Track é uma aplicação web desenvolvida em Java com Spring Boot que permite o controle financeiro pessoal, possibilitando o registro de receitas e despesas, categorização de transações e cálculo automático de saldo, auxiliando na organização e planejamento financeiro do usuário.
